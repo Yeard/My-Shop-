@@ -20,14 +20,14 @@ class ProductOverviewScreen extends StatelessWidget {
     Product(
         id: 'p12',
         description: 'Shirt nice and cool',
-        title: 'Red shirt',
+        title: 'Yeard shirt',
         price: 29.99,
         imageUrl:
             'https://st3.depositphotos.com/4431055/16128/i/1600/depositphotos_161281072-stock-photo-top-view-of-blue-t.jpg'),
     Product(
         id: 'p3',
         description: 'Shirt nice and cool',
-        title: 'Green shirt',
+        title: 'IIO shirt',
         price: 49.99,
         imageUrl: 'https://pngimg.com/uploads/tshirt/tshirt_PNG5454.png'),
   ];
